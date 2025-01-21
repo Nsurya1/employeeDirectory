@@ -13,7 +13,7 @@ An Employee Directory application that allows you to manage employee records wit
 ---
 
 ## About the Project
-The Employee Directory is a web application designed to simplify the management of employee data. It features a RESTful API for backend operations and a dynamic front-end interface for seamless user interaction. The application enables users to **Create**, **Read**, **Update**, and **Delete** (CRUD) employee records efficiently.
+The Employee Directory is a web application designed to simplify the management of employee data. It features a RESTful API for backend operations and a dynamic front-end interface for seamless user interaction. The application enables users to **Add**, **View List**, **Update**, **Delete**  and **Search** employee records efficiently.
 
 ---
 
@@ -45,9 +45,19 @@ The Employee Directory is a web application designed to simplify the management 
 | DELETE      | `/employees/{id}` | Delete an employee        |
 
 ---
+![Add employee](images/img3.png)
 
-![list employees](images/Screenshot 2024-12-18 211950.png)
+![Detail employee](images/img2.png)
 
-![Detail employee](images/Screenshot 2024-12-18 212209.png)
+![list employees](images/img1.png)
 
-![Detail employee](images/Screenshot 2024-12-18 212234.png)
+![Update employee](images/img4.png)
+
+![Search employee](images/img5.png)
+
+
+
+
+
+
+
