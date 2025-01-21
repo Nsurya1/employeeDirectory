@@ -46,8 +46,8 @@ The Employee Directory is a web application designed to simplify the management 
 
 ---
 
-![list employees](Screenshot 2024-12-18 211950.png)
+![list employees](images/Screenshot 2024-12-18 211950.png)
 
-![Detail employee](Screenshot 2024-12-18 212209.png)
+![Detail employee](images/Screenshot 2024-12-18 212209.png)
 
-![Detail employee](Screenshot 2024-12-18 212234.png)
+![Detail employee](images/Screenshot 2024-12-18 212234.png)
